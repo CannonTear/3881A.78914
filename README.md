@@ -1,5 +1,4 @@
 # 3881A.78914
-Abbility to Route Internet Accross the Globe. Data will not be shared.
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQQNBFUoCGgBIADFLp+QonWyK8L6SPsNrnhwgfCxCk6OUHRIHReAsgAUXegpfg0b
